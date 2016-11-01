@@ -8,6 +8,7 @@
   opacity: 0;
   transition-property: opacity;
   transition-duration: 3.5s;
+
 }
 
 .carousel-fade .carousel-inner .active {
@@ -54,6 +55,7 @@
       -webkit-transform: translate3d(0, 0, 0);
               transform: translate3d(0, 0, 0);
     }
+
 }
 
 .navbar-toggle {
